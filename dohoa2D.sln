@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dohoa2D", "dohoa2D\dohoa2D.csproj", "{778CEB23-7F7A-4C54-BDBE-3406BE00F9A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTDH", "KTDH\KTDH.csproj", "{DA933778-6979-4FC1-8FF6-093720B634FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTDH.FACADE", "KTDH.FACADE\KTDH.FACADE.csproj", "{AD6157D3-9DF3-4E1B-8C47-F1CB11D5564D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778CEB23-7F7A-4C54-BDBE-3406BE00F9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778CEB23-7F7A-4C54-BDBE-3406BE00F9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778CEB23-7F7A-4C54-BDBE-3406BE00F9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778CEB23-7F7A-4C54-BDBE-3406BE00F9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA933778-6979-4FC1-8FF6-093720B634FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA933778-6979-4FC1-8FF6-093720B634FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA933778-6979-4FC1-8FF6-093720B634FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA933778-6979-4FC1-8FF6-093720B634FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6157D3-9DF3-4E1B-8C47-F1CB11D5564D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6157D3-9DF3-4E1B-8C47-F1CB11D5564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6157D3-9DF3-4E1B-8C47-F1CB11D5564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6157D3-9DF3-4E1B-8C47-F1CB11D5564D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
